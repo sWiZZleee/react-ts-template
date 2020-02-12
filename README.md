@@ -65,7 +65,7 @@ Configured automatically is [ESLint](https://eslint.org) with the [TUIL](https:/
     "project": "./tsconfig.json"
   },
   "settings": {
-    "[React](https://reactjs.org)": {
+    "react": {
       "version": "detect"
     }
   }
